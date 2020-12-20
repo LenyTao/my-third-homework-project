@@ -1,5 +1,8 @@
+package ru.neoflex.RleEncoding
+
 import org.scalatest.flatspec._
 import org.scalatest.matchers._
+
 
 class RleEncodingSpec extends AnyFlatSpec with should.Matchers {
 
